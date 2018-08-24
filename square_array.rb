@@ -1,3 +1,3 @@
 def square_array(array)
-  squar
+  squared_array
 end
